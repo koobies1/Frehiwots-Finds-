@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frehiwot's Finds</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: red;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            padding: 20px;
+            margin: 0 auto;
+            max-width: 800px;
+        }
+        .intro, .items {
+            margin-bottom: 20px;
+        }
+        .items ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .items li {
+            background-color: #f1f1f1;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .contact {
+            text-align: center;
+            background-color: #ddd;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Frehiwot's Finds</h1>
+    <p>Your go-to spot for great deals on gently used items!</p>
+</header>
+
+<div class="container">
+    <section class="intro">
+        <h2>Welcome to Frehiwot's Finds</h2>
+        <p>Hello! I'm Frehiwot, and I'm selling some of my gently used items that I no longer need. From clothing to electronics, everything is available at a great price. Take a look at what I have to offer, and feel free to reach out for more details!</p>
+    </section>
+
+    <section class="items">
+        <h2>Items for Sale</h2>
+        <ul>
+            <li><strong>Clothing:</strong> Gently used jackets, dresses, shoes, and more.</li>
+            <li><strong>Electronics:</strong> Phones, laptops, gaming consoles, and accessories.</li>
+            <li><strong>Home Goods:</strong> Kitchen appliances, decor, and furniture.</li>
+            <li><strong>Miscellaneous:</strong> Books, toys, and other household items.</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p>If you're interested in any of the items or have questions, please feel free to contact me:</p>
+        <p>Email: <a href="mailto:frehiwot@example.com">frehiwot@example.com</a></p>
+        <p>Phone: <a href="tel:8329953784">832-995-3784</a></p>
+    </section>
+</div>
+
+</body>
+</html>
